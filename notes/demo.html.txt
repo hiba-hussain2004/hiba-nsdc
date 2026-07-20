@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>New</title>
-</head>
-<body>
-<h1>NSDC DEMO DEPLOYMENT </h1>
-</body>
-<html>
